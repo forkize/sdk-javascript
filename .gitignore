@@ -1,0 +1,21 @@
+###############   .gitignore   ###############
+##############################################
+#											 #	
+#  A gitignore file specifies intentionally  #
+#  untracked files that Git should ignore.   # 
+#											 #		
+##############################################
+
+
+#  Ignore node_modules directory
+
+# ignoring sublime project files
+jssdk.sublime-workspace
+jssdk.sublime-project
+
+npm-debug.log
+.DS_Store
+node_modules/
+test/
+dist/
+

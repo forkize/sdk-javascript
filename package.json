@@ -1,0 +1,31 @@
+{
+  "name": "jssdk",
+  "version": "1.0.0",
+  "description": "Forkize Javascript SDK",
+  "main": "forkize.js",
+  "dependencies": {
+    "browser-request": "^0.3.3",
+    "debug": "^2.2.0",
+    "joi": "^6.4.1",
+    "lodash": "^3.10.1",
+    "md5": "^2.0.0",
+    "request": "^2.55.0",
+    "uuid": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^1.10.0",
+    "gulp-uglify": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:forkize/jssdk.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Forkize Team",
+  "license": "ISC"
+}
